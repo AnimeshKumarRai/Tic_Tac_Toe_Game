@@ -16,8 +16,8 @@
 ## Installation
 To run locally:
 ```bash
-git clone https://github.com/[username]/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/AnimeshKumarRai/Tic_Tac_Toe_Game.git
+cd Tic_Tac_Toe_Game
 ```
 Open the `index.html` file in any modern web browser.
 
