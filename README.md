@@ -12,6 +12,9 @@
 ✨ Reset and new game options
 ✨ Mobile-friendly interface
 
+## Play :
+https://animeshkumarrai.github.io/Tic_Tac_Toe_Game/
+
 
 ## Installation
 To run locally:
